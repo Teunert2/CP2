@@ -6,7 +6,7 @@
 - Simpele navigatielinks zonder styling.
 - Secties: "Services", "Service 1", "Service 2", "Service 3", "Pricing", "Training", "Contact Us".
 
-![Versie 1](./path/to/first-image.png)
+![Versie 1](https://github.com/Teunert2/CP2/blob/main/code/Navbar/foto/v1.png)
 
 ---
 
