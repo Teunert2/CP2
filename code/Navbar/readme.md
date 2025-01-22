@@ -6,7 +6,7 @@
 - Simpele navigatielinks zonder styling.
 - Secties: "Services", "Service 1", "Service 2", "Service 3", "Pricing", "Training", "Contact Us".
 
-![Versie 1](./path/to/first-image.png)
+![Versie 1](https://github.com/Teunert2/CP2/blob/main/code/Navbar/foto/v1.png)
 
 ---
 
@@ -15,7 +15,7 @@
 - Nieuwe knoppen: "Log In" en "Word Abonnee".
 - Links aangepast naar: "Nieuws", "Interviews", "Artikelen", "Evenementen".
 
-![Versie 2](./path/to/second-image.png)
+![Versie 2](https://github.com/Teunert2/CP2/blob/main/code/Navbar/foto/v2.png)
 
 ---
 
@@ -24,4 +24,13 @@
 - Links in het menu: "Home", "World", "Politics", "Business", "Tech", "Sports".
 - Sluitknop (X) toegevoegd om het menu te sluiten.
 
-![Versie 3](./path/to/third-image.png)
+![Versie 3](https://github.com/Teunert2/CP2/blob/main/code/Navbar/foto/v3.png)
+
+
+---
+
+### Versie 3: Dropdown-menu verbeteringen
+- Styling aangepast.
+- Links in het menu aangepast: Nieuws, Interviews, Artikelen, Evenementen.
+
+![Versie 3](https://github.com/Teunert2/CP2/blob/main/code/Navbar/foto/v4.png)

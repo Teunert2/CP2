@@ -16,9 +16,9 @@ Daarnaast kunnen gebruikers zich abonneren op nieuwsbrieven, deelnemen aan webin
 
 Voor dit project heb ik gewerkt aan de volgende onderdelen, elk met hun eigen branch:
 
-- [Footer Branch](https://github.com/gebruikersnaam/projectnaam/tree/footer)
-- [Home_header Branch](https://github.com/gebruikersnaam/projectnaam/tree/home_header)
-- [Navbar Branch](https://github.com/gebruikersnaam/projectnaam/tree/navbar)
+- [Footer Branch](https://github.com/Teunert2/CP2/tree/main/code/Footer)
+- [Home_header Branch](https://github.com/Teunert2/CP2/tree/main/code/Home_header)
+- [Navbar Branch](https://github.com/Teunert2/CP2/tree/main/code/Navbar)
 
 ## Technologieën
 
