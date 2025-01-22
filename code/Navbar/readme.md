@@ -26,11 +26,10 @@
 
 ![Versie 3](https://github.com/Teunert2/CP2/blob/main/code/Navbar/foto/v3.png)
 
-
 ---
 
-### Versie 3: Dropdown-menu verbeteringen
+### Versie 4: Dropdown-menu verbeteringen
 - Styling aangepast.
-- Links in het menu aangepast: Nieuws, Interviews, Artikelen, Evenementen.
+- Links in het menu aangepast: "Nieuws", "Interviews", "Artikelen", "Evenementen".
 
-![Versie 3](https://github.com/Teunert2/CP2/blob/main/code/Navbar/foto/v4.png)
+![Versie 4](https://github.com/Teunert2/CP2/blob/main/code/Navbar/foto/v4.png)
