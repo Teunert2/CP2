@@ -31,5 +31,4 @@ Dit project is ontwikkeld met de volgende technologieën:
 
 ## Links naar project
 
-- **GitHub Repository**: [AimToday Repository](https://github.com/gebruikersnaam/projectnaam)
-- **Gehele Website**: [AimToday Website](https://domeinnaam.vercel.app/)
+- **GitHub Repository**: [AimToday Repository](https://github.com/SpagettBro/aim-today)
