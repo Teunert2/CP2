@@ -17,8 +17,8 @@
 - **Beschrijving**: 
   - De footer is nu volledig responsief gemaakt.  
   - Extra links toegevoegd, zoals "Nieuws", "Interviews", "Evenementen", enz.  
-  - Social media-iconen toegevoegd onderaan.  
-- **Functionaliteiten**: Ondersteunt mobiele weergave.  
+  - Social media-iconen toegevoegd onderaan.
+  - Responsive gemaakt
 - **Code**: [v2.jsx](https://github.com/Teunert2/CP2/tree/main/code/Footer/versies/v2.jsx)
 
 <p align="center">
@@ -30,12 +30,10 @@
 
 ### Versie 3: Nieuwsbriefintegratie
 - **Beschrijving**: 
-  - Nieuwsbriefveld verbeterd met placeholders en validatie.
+  - Nieuwsbriefveld verbeterd.
   - Interactieve functionaliteit toegevoegd om een e-mail naar de nieuwsbrief-database te verzenden.  
-- **Functionaliteiten**: 
-  - Placeholdertekst in het invulveld: "Voer je e-mailadres in".  
-  - Stuurknop voor nieuwsbrief aanmeldingen.
-  - Social media-links zijn behouden.  
+  - knop voor nieuwsbrief aanmeldingen.
+
 - **Code**: [v3.jsx](https://github.com/Teunert2/CP2/tree/main/code/Footer/versies/v3.jsx)
 
 ![Versie 3](https://github.com/Teunert2/CP2/blob/main/code/Footer/fotos/v3.png)
