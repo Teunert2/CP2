@@ -7,7 +7,7 @@
 - **Functionaliteiten**: 
   - Logo onderaan.  
   - Tekst: "Meld je aan voor de nieuwsbrief" met een invulveld voor e-mail.  
-- **Code**: [v1.jsx](https://github.com/Teunert2/CP2/tree/main/code/footer/versies/v1.jsx)
+- **Code**: [v1.jsx](https://github.com/Teunert2/CP2/tree/main/code/Footer/versies/v1.jsx)
 
 ![Versie 1](v1.png)
 
@@ -19,7 +19,7 @@
   - Extra links toegevoegd, zoals "Nieuws", "Interviews", "Evenementen", enz.  
   - Social media-iconen toegevoegd onderaan.  
 - **Functionaliteiten**: Ondersteunt mobiele weergave.  
-- **Code**: [v2.jsx](https://github.com/Teunert2/CP2/tree/main/code/footer/versies/v2.jsx)
+- **Code**: [v2.jsx](https://github.com/Teunert2/CP2/tree/main/code/Footer/versies/v2.jsx)
 
 <p align="center">
   <img src="v2.png" alt="Desktop versie" width="45%">
@@ -36,6 +36,6 @@
   - Placeholdertekst in het invulveld: "Voer je e-mailadres in".  
   - Stuurknop voor nieuwsbrief aanmeldingen.
   - Social media-links zijn behouden.  
-- **Code**: [v3.jsx](https://github.com/Teunert2/CP2/tree/main/code/footer/versies/v3.jsx)
+- **Code**: [v3.jsx](https://github.com/Teunert2/CP2/tree/main/code/Footer/versies/v3.jsx)
 
 ![Versie 3](v3.png)
